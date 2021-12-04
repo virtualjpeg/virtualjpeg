@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @virtualjpeg
-- ✨ I’m interested in crypto and the metaverse
+- ✨ I’m interested in crypto and the hyperverse
 - ✏️ i like design and art as well
-- 🔮 i like coding in solidity, javascript and python 
+- 🔮 i am a solidity developer
 - 🌻 my twitter is @virtual_jpeg
 
 <!---
