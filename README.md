@@ -1,7 +1,7 @@
 ### hey im virtual ✨
 i am:
 - solidity engineer at [alongside](https://alongside.finance)
-- learning rust 🌻
+- rust 🦀
 - actively interested / building on mev
 
 feel free to reach out via twitter!
